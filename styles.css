@@ -1,0 +1,32 @@
+html {
+    background-color: #FFD4B3;
+}
+img {
+    height: 300px;
+    width: 300px;
+}
+#title {
+    font-size: 50px;
+    font-family: 'BioRhyme Expanded', serif;
+    text-align: center;
+}
+
+#rock {
+margin-left: 12%;
+}
+
+#paper {
+margin-left: 7.5%;
+}
+
+#scissors {
+margin-left: 7.5%;
+}
+#stats {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    font-size: 35px;
+    font-family: "BioRhyme Expanded", serif;
+}
